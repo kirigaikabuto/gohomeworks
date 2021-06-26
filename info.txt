@@ -13,3 +13,7 @@ git push -u origin main
 git add .
 git commit -m "message"
 git push
+6)запустить файлы которые находятся в другой папке
+cd [название_папки]
+если хотим выйти из этой папки
+cd ../
