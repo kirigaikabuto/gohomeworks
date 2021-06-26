@@ -11,3 +11,5 @@ git remote add origin https://github.com/kirigaikabuto/gohomeworks.git
 git push -u origin main
 5) сихронизация локальной папки с github.com
 git add .
+git commit -m "message"
+git push
